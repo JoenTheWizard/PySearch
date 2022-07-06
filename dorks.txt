@@ -1,0 +1,40 @@
+inurl:".php?id="
+inurl:"id=*" & intext:"warning mysql_fetch_array()"
+inurl:"item.php?id="
+inurl:”.php?id=” site”.in” intext:”engineering college”
+inurl:”.php?id=” intitle:”engineering college”
+inurl:”.php?id=” intext:”institute of technology”
+inurl:”.php?m_id=”
+accinfo.php?cartId=
+acclogin.php?cartID=
+add.php?bookid=
+add_cart.php?num=
+addcart.php?
+addItem.php
+add-to-cart.php?ID=
+addToCart.php?idProduct=
+addtomylist.php?ProdId=
+adminEditProductFields.php?intProdID=
+advSearch_h.php?idCategory=
+affiliate.php?ID=
+affiliate-agreement.cfm?storeid=
+affiliates.php?id=
+ancillary.php?ID=
+archive.php?id=
+article.php?id=
+phpx?PageID
+basket.php?id=
+trailer.php?id=
+news.php?id=
+?page=
+index.php?page=
+item/detail.php?num=
+features/view.php?id=
+site/?details&prodid=
+product_info.php?products_id=
+remixer.php?id=
+proddetails_print.php?prodid=
+pylones/item.php?item=
+index.php?cont=
+product.php?ItemId=
+video.php?id=

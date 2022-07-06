@@ -1,0 +1,3 @@
+inurl:".php?id="
+inurl:"post.php?id="
+inurl:"view.php?id="
