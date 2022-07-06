@@ -1,5 +1,6 @@
 inurl:".php?id="
 inurl:"id=*" & intext:"warning mysql_fetch_array()"
+site:*.in intext:"you have an error in your sql syntax"
 inurl:"item.php?id="
 inurl:”.php?id=” site”.in” intext:”engineering college”
 inurl:”.php?id=” intitle:”engineering college”
@@ -38,3 +39,5 @@ pylones/item.php?item=
 index.php?cont=
 product.php?ItemId=
 video.php?id=
+inurl:discordapp.com/attachments
+inurl:"/cgi-bin/guestimage.html" OR intitle:"mx10.*Live"
